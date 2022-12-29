@@ -10,10 +10,6 @@ This project will consist of five screens. You don't have to create a shoe store
 5. Shoe Detail screen for adding a new shoe
 
 
-## new
-
-[![Generic badge]([https://img.shields.io/badge/Live%20demo%20@-GitHub%20Pages-blueviolet.svg?style=for-the-badge&logo=GitHub)](https://nijepa.github.io/nijepa-shoe_store-front/#/](https://aditya10cr7.github.io/Shopping/))
-
 ## Known Bugs
 There are no known bugs. Incase you experience any errors using this website kindly contact me at vaibhavmandot1233@gmail.com
 ## Technologies Used
