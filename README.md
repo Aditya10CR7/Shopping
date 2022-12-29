@@ -17,13 +17,16 @@ This project will consist of five screens. You don't have to create a shoe store
 ## Known Bugs
 There are no known bugs. Incase you experience any errors using this website kindly contact me at vaibhavmandot1233@gmail.com
 ## Technologies Used
-* Android
-* Java
+* HTML
+* CSS
+* JavaScript
+
 
 ## Support and contact details
-email: vaibhavmandot1233@gmail.com
+email: vaibhavmandot1233@gmail.com or 
+        adityapandiarajan7@gmail.com
 
 ## License
 [MIT License](./LICENSE)
 
-Copyright (c) [2022] [Vaibhav Jain]
+Copyright (c) [2022] [Vaibhav Jain][Aditya]
